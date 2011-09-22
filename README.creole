@@ -1,0 +1,24 @@
+= Kittify 
+
+Kittify is browser plugin that generates kitten photos.
+
+Project on github
+
+* https://github.com/garyv/kittify
+
+== BUGS
+
+If you found a bug, please report it at the Kittify project's tracker
+on GitHub:
+
+http://github.com/garyv/kittify/issues
+
+== AUTHORS
+
+* Gary Von Schilling (gary)
+
+== LICENSE
+
+Kittify is copyrighted free software by Gary Von Schilling.
+It may be redistributed under the same terms as specified for the Ruby language.
+http://www.ruby-lang.org/en/LICENSE.txt
