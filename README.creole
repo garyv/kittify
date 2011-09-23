@@ -15,7 +15,7 @@ http://github.com/garyv/kittify/issues
 
 == AUTHORS
 
-* Gary Von Schilling (gary)
+* Gary Von Schilling (garyv)
 
 == LICENSE
 
