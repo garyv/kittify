@@ -17,8 +17,7 @@ http://github.com/garyv/kittify/issues
 
 * Gary Von Schilling (garyv)
 
-== LICENSE
+== PUBLIC LICENSE
 
-Kittify is copyrighted free software by Gary Von Schilling.
-It may be redistributed under the same terms as specified for the Ruby language.
-http://www.ruby-lang.org/en/LICENSE.txt
+Kittify is copyrighted free software by Gary Von Schilling
+and may be redistributed under the WTFPL - http://sam.zoy.org/wtfpl/COPYING
