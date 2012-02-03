@@ -52,7 +52,7 @@ function kittify(options) {
                  w  = img.width || img.offsetWidth ||
                        Math.floor(img.style.width || 0),
                  h  = img.height || img.offsetHeight ||
-                       Math.floor(img.style.height || 0)
+                       Math.floor(img.style.height || 0),
                  key = w + 'x' + h;
                  
             if (w > size && h > size) {
